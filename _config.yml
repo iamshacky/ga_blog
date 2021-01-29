@@ -45,12 +45,12 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "ga_blog/author"
   - scope:
       path: ""
-      type: "posts"
+      type: "ga_blog/posts"
     values:
-      layout: "post"
+      layout: "ga_blog/post"
   - scope:
       path: ""
     values:
